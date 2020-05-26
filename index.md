@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <h1>林君宇</h1>
-      <p><b>Unity程序开发人员</b><
+      <p><b>Unity程序开发人员</b></p>
       <p><b>邮箱：764898655@qq.com</b></p>
       <p><b>地址：厦门市集美区南山路90-2号</b></p>
       <p><a href="/index-en.html">English Version</a></p>
